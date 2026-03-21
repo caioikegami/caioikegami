@@ -11,7 +11,7 @@ Eu sou Caio Ikegami, sou programador Front End, atualmente estou aprendendo e cr
   Conecte comigo:
 <br>
 <br>
-- <a href="https://www.linkedin.com/in/caioikegamiferreira/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a> <br>
+- <a href="https://www.linkedin.com/in/caioikegamiferreira/" target="_blank" rel="noopener"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a> <br>
 - <a href="https://instagram.com/eucaioikegami"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram-logo" />
 <br>
 <br>
