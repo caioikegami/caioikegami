@@ -2,6 +2,8 @@
 
 ### A passionate developer
 
+My portfolio here: <a href="https://caioikegami.github.io/caio-portfolio-react/" target="_blank">Portfólio</a>
+
 - 🔭 I'm currently working on **DevBurguer**
 
 - 🌱 I'm currently learning **Node and React**
